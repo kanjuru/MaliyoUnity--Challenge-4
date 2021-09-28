@@ -3,10 +3,6 @@
 
 
 Challenge 4:
-This game incorporates various aspects listed as follows:
-.Physics 
-.Animations 
-.Music and sound effects
+In this Unit, I learnt an arcade-style Sumo battle with the objective of knocking increasingly difficult waves of enemies off of a floating island, using power ups to help defeat them. In creating this prototype, you will learn how to implement new gameplay mechanics into your projects, which are new rules or systems that make the game more interesting to play. On one hand, you will learn to program a powerup, which give the player a temporary advantage. On the other hand, you will learn to program increasingly difficult enemy waves, which make survival more challenging for the player. A good balance of powerups and increasing difficulty make for a much more interesting gameplay experience.
 
-This game is an endless side-scrolling runner game where the player needs to time jumps over oncoming obstacles to avoid crashing. The player cannot leave the screen view and the game ends when the player collides with a bomb.
-
+github: https://github.com/kanjuru/MaliyoUnity--Challenge-4
